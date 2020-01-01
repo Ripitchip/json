@@ -1,11 +1,10 @@
 {
-  "posts": [
+  "pao": [
     {
-      "id": 2,
-      "title": "hello"
+        "number": "0",
+        "person": "Zenyatta",
+        "action": "jongler",
+        "object": "œufs"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
